@@ -30,8 +30,9 @@
 	text-align: left;
     padding-bottom:30px;
 }
-#bandeausaison4 .col-6 a {
-    margin-top:50px;
+#bandeausaison4 p a {
+	display: inline-block;
+    margin-top:25px;
 }
 
 #bandeausaison4 .annonce{
@@ -62,4 +63,3 @@
 	 color: #ebdec2;
 	 text-decoration: underline;
 }
-
