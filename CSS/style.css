@@ -64,6 +64,9 @@
 	 text-decoration: underline;
 }
 
+
+
+
 #bandeausaison4 h2 {
 	 color: white;
 	padding: 10px;
@@ -79,14 +82,22 @@
 	display: inline-block;
 	padding: 20px;
 }
-
+#bandeausaison4 .vignette {
+	display: inline-block;
+	padding: 23px;
+	
+}
 #bandeausaison4 .vignette h2 {
 	 color: #f8b700;
 	 font-size: 1.2rem;
+	 font-weight: 600;
 	
 }
 #bandeausaison4 .vignette h3 {
 	 color: white;
-	 font-size: 1.2rem;
-	
+	 font-size: 1rem;
+	padding-left: 13px;
+	font-weight: 300;
 }
+
+
